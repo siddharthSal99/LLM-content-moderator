@@ -1,0 +1,6 @@
+Title: Is there a pattern to the rotation of galaxies? 
+Post Text: When we look at 'flat' galaxies, I believe that we can tell their orientation relative to us. Some face us directly, some are edge on.
+
+Is there any pattern to this that we can detect? For example, are the galaxies in certain galactic clusters oriented in a similar way? Or is orientation just random?
+
+If it's not random, does that tell us anything about the initial conditions of the universe (angular momentum, for example)?

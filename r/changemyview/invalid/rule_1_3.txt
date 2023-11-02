@@ -1,0 +1,2 @@
+Title: This view can't be changed!
+Post Text:I'm convinced that this view is right and it can't be changed. Anybody who disagrees is wrong!

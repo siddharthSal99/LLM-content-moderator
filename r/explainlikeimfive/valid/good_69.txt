@@ -1,0 +1,2 @@
+Title: eli5 what is a data index and how does it work? 
+Post Text: I recently started a incredibly more technical data analytics role (I'm uber under qualified but like fake it til you make it). I'm trying to read up and understand the indexing but something just isn't clicking.

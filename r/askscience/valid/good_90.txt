@@ -1,0 +1,2 @@
+Title: How Does Electricity Produce Movement in Robots? 
+Post Text: I’ve been wondering this since I took a semester-long robotics class in seventh grade. I know that electricity makes the machine move, but how does electricity produce kinetic energy? I know that in the human body, muscle movement is caused by the physical shortening and tightening of muscle fibers, caused by exposure to certain hormones that are released because of an electrical impulse. That makes simple sense to me, but how a flow of electrons causes a machine to just *move* is well above me

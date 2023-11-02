@@ -1,0 +1,2 @@
+Title: ELI5: the 4G and 5G band numbers of a mobile phone 
+Post Text: Hi all, I've been wondering for a while now with regards to the 4G and 5G bands for mobile phones. [Here is an example image screenshot from GSMArena](https://imgur.com/a/Q7R4vLy). Can someone explain what each number represents and it's significance? Do they represent different countries? If the phones don't have any specific number, then will the phone be unusable in that specific country?

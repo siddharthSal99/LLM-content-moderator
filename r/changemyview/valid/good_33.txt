@@ -1,0 +1,16 @@
+Title: CMV: Community Notes have had a net positive affect on X/Twitter 
+Post Text: Community Notes on X/Twitter allow users to know about falsehoods or lack of context in a tweet, and the appearance of such a note should also stigmatise the author of the post.
+
+The feature has been implemented well. I can see community notes on dishonest tweets on opposite sides of political issues. For example, this [anti-Israel tweet](https://twitter.com/dialectichiphop/status/1717275496143053091) had [context added](https://twitter.com/i/birdwatch/n/1717554867370115365) on how DDT was used in the mid 20th century. While this [anti-Palestinian tweet](https://twitter.com/VictorNakba/status/1716229749075263768) had [a note added](https://twitter.com/i/birdwatch/n/1716370358406639642) that the footage is actually from the Syrian civil war. Community notes have not just been applied to fringe figures who no-one follows, but figures that are well-respected by many, such as the US president, the ACLU, and the BBC. The community notes are written in a professional, factual tone, and often cite sources, unlike most tweets. The account [Helpful Notes](https://twitter.com/HelpfulNotes) shows tweets that have had helpful notes for over a day, and I can see trends in how people have been engaging in BS - one common trend is using photos or footage from other conflicts that the world has largely ignored, or using AI images or computer games.
+
+Dmitry Medvedev [complained](https://twitter.com/MedvedevRussiaE/status/1694382207203250586) about an opposing view appearing with the original tweet. My response would be that encountering other peoples' contributions are part and parcel of social media - that's what "social" means.
+
+I have some concerns about community notes - we rely upon an algorithm to decide if a community note has received enough positive feedback to be accepted, and we don't know who the author of a note is or what conflicts of interest they have.
+
+Community notes started during Twitter 1.0, but have become more prominent during Twitter 2.0 (Twitter/X after Musk took over). I'm especially interested if those who dislike the change from 1.0 to 2.0 feel like Community Notes have not had a net positive effect on Twitter.
+
+A possible response is that X/Twitter, social media in general, or Twitter 2.0 is irredeemably bad, and that Community Notes doesn't make it better, but I doubt Twitter will disappear overnight.
+
+Change my view.
+
+(Apologies for the misspelling in the title: it should have been "effect")

@@ -1,0 +1,4 @@
+Title: If the Pauli Exclusion Principle prevents my hand from going through the cup I'm holding, how does the cup not slide through my hands and get pulled to the ground by gravity? 
+Post Text: I'm trying to grasp this concept. All macroscopic objects are mostly empty space, so you'd think my hand would go through the cup I'm holding. But it doesn't, because of the Pauli Exclusion Principle (at least that's what I'm led to understand). Something keeps the atoms of my hand separate from the atoms of the cup.
+
+But gravity pulls down at the cup...so if the atoms of my hand and the cup are kept separate, how come it doesn't slide through my fingers? What, at the atomic level, is going on there to prevent it?

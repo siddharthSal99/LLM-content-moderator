@@ -1,0 +1,4 @@
+Title: Why does liquid nitrogen create a visible condensation cloud when it boils? 
+Post Text: As I understand it, when water is heated, it evaporates into colourless/invisible gaseous water, then the gas is cooled by atmospheric temperature and recondenses as visible liquid water droplets, which we see as a cloud of steam.
+
+In the case of liquid nitrogen, I assume it undergoes a similar process - it heats up and evaporates into colourless invisible gas phase .  Why then do we see a visible fog forming?  How does the nitrogen cool back down enough to recondense into visible liquid droplets, considering its boiling point is in the negative hundreds of degrees C?

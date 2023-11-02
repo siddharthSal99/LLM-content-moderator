@@ -1,0 +1,47 @@
+Title: AskScience Panel of Scientists XXIV 
+Post Text: **Please read this entire post carefully and format your application appropriately.**
+
+This post is for new panelist recruitment! The previous one is [here](https://www.reddit.com/r/askscience/comments/10e3nfa/askscience_panel_of_scientists_xxviii/).
+
+The panel is an informal group of Redditors who are **either professional scientists or those in training to become so**. All panelists have at least a graduate-level familiarity within their declared field of expertise and answer questions from related areas of study. A panelist's expertise is summarized in a color-coded AskScience flair.
+
+Membership in the panel comes with access to a panelist subreddit. It is a place for panelists to interact with each other, voice concerns to the moderators, and where the moderators make announcements to the whole panel. It's a good place to network with people who share your interests!
+
+\-------------------
+
+**You are eligible to join the panel if you:**
+
+* Are studying for at least an MSc. or equivalent degree in the sciences, AND,
+* Are able to communicate your knowledge of your field at a level accessible to various audiences.
+
+\-------------------
+
+**Instructions for formatting your panelist application:**
+
+* Choose exactly one general field from the side-bar (Physics, Engineering, Social Sciences, etc.).
+* State your specific field in one word or phrase (Neuropathology, Quantum Chemistry, etc.)
+* Succinctly describe your particular area of research in a few words (carbon nanotube dielectric properties, myelin sheath degradation in Parkinsons patients, etc.)
+* Give us a brief synopsis of your education: are you a research scientist for three decades, or a first-year Ph.D. student?
+* Provide links to comments you've made in AskScience which you feel are indicative of your scholarship.  Applications will not be approved without several comments made in /r/AskScience itself.
+
+\-------------------
+
+Ideally, these comments should clearly indicate your fluency in the fundamentals of your discipline as well as your expertise. We favor comments that contain citations so we can assess its correctness without specific domain knowledge.
+
+Here's an example application:
+
+`Username: /u/foretopsail`
+
+`General field: Anthropology`
+
+`Specific field: Maritime Archaeology`
+
+`Particular areas of research include historical archaeology, archaeometry, and ship construction.`
+
+`Education: MA in archaeology, researcher for several years.`
+
+`Comments: 1, 2, 3, 4.`
+
+Please do not give us personally identifiable information and please follow the template. We're not going to do real-life background checks - we're just asking for reddit's best behavior. However, several moderators are tasked with monitoring panelist activity, and your credentials will be checked against the academic content of your posts on a continuing basis.
+
+You can submit your application by replying to this post.

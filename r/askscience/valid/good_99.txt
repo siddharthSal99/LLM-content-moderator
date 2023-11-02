@@ -1,0 +1,4 @@
+Title: Why does Earth’s tilt affect seasons more than the actual distance to the Sun? 
+Post Text: I’m sorry if this is a stupid question. I just cant wrap my head around it.
+
+We’re educated that the Earth’s tilt affects seasons in the Northern and Southern hemisphere. But intuitively it seems that the variations in tilt is trivial in comparison to the actual distance between the Earth and Sun throughout it’s elliptical orbit. We’re talking 5,000,000 KM variation. Why is it hotter when we are slightly tilted towards the Sun and not hotter because we are 5 million kilometers closer to the sun?

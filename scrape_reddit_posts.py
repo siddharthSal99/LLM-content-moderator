@@ -1,4 +1,4 @@
-from config import CLIENT_ID, SECRET_KEY, OPENAI_KEY
+from config import CLIENT_ID, SECRET_KEY, OPENAI_API
 from config import reddit_auth_data as data
 
 import requests
@@ -40,7 +40,7 @@ print(rulesPrompt)
 # print(resp)
 from langchain.llms import OpenAI
 
-llm = OpenAI(openai_api_key=OPENAI_KEY)
+llm = OpenAI(openai_api_key=OPENAI_API)
              
 from langchain.prompts.chat import ChatPromptTemplate
 from langchain.schema import StrOutputParser

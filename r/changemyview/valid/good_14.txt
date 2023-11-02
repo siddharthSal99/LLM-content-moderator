@@ -1,0 +1,13 @@
+Title: CMV: GPS apps, like Google Maps and Waze, should color streets based on the actual average speed of traffic, not the level of congestion relative to the road type. 
+Post Text: Currently, most GPS apps, like Google Maps, seem to vary their standards of how to display traffic congestion based on road types and speed limit. For example, Google Maps will show small, windy roads as green even though everyone on them is driving slowly. By contrast, It will show somewhat-congesred freeways as orange or red even if people are driving fairly fast compared to a smaller street (over 30 MPH). 
+
+I think it's annoying when I am driving on a congested freeway (colored orange/red in Google Maps)  averaging 25 MPH, and I see a nearby parallel road in green, but I don't know whether that would be a good alternative  route. For example, maybe the parallel road has a lot of traffic lights and speed bumps and a speed limit of 20 MPH (slower), or maybe it is clear with a speed limit of 40 MPH (faster).
+
+ Even at midnight with no congestion, slower streets should be displayed on the GPS as a redder color, to indicate that you won't be able to drive very fast on them. That way, you don't have to stop the car and put in a new destination to see at a glance which routes you can take to minimize delay. 
+
+Colors could be the following:
+Dark red: 0-20 MPH average (e.g., small city streets or very congested roads/freeways)
+Red: 20-30 MPH (e.g., uncongested suburban streets or congested roads/freeways)
+Orange: 30-45 MPH
+Yellow: 45-60 MPH 
+Green: 60+ MPH (e.g., uncongested rural/suburban freeways and wide/straight rural roads)

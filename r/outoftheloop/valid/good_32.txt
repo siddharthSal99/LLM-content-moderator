@@ -1,0 +1,4 @@
+Title: What’s the deal with Reddit removing the “misinformation” report category? 
+Post Text: There used to be a category for reporting site-wide rule violations (i.e. direct-to-admin reports rather than subreddit-only mod reports) for “misinformation.” It’s been gone for some time now. I’d been meaning to ask but never got around to it. I feel like it’s been gone for at least 6 months now, but I don’t know exactly.
+
+[Here’s a link to the Reddit content-policy](https://www.redditinc.com/policies/content-policy) which makes no mention of misinformation (anymore?), either. You can also see the lack of “misinformation” category by clicking “report” on any post or comment. The categories of Spam, Harassment, Hate, etc. are all still there, but Misinformation is missing.

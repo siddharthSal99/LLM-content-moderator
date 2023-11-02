@@ -1,0 +1,2 @@
+Title: [ELI5] How do jet's seeking missiles work? 
+Post Text: I know they seek heat targets somehow so they get distracted if the defender uses his flares. Why can't they install a camera at the front of the missile so it sees whether the heat is coming from an enemy jet or a flare?

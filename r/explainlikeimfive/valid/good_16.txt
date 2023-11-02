@@ -1,0 +1,2 @@
+Title: Eli5: How do turbines generate electricity? 
+Post Text: I know that, in basically all generators, you have something generate heat and make a turbine spin. I know that this spinning is converted into electricity. What is the process leading to that fact? I know they're both energy, but how does mechanical energy get converted into electrical energy after it's generated?

@@ -1,0 +1,2 @@
+Title: eli5 How much does the fact that Google gets 16x the data as Bing affect things? 
+Post Text: As title states, is there a ratio of how much the extra data means in terms of revenue?

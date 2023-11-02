@@ -1,0 +1,2 @@
+Title: ELI5: How do antidepressants such as sertraline treat anxiety disorder? 
+Post Text: I read that sertraline blocks reuptake inhibitors, and it turns out that there is more serotonin between neurons.  But doesn’t it mean that if there is more of it, there will be more neuron activations and, accordingly, anxiety?

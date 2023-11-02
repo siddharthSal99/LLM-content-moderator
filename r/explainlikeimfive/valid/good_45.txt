@@ -1,0 +1,6 @@
+Title: ELI5: HDCP use cases vs ripping digitally 
+Post Text: Linux user. I was reading about HDMI vs DP and adoption then got down the rabbit hole of data protection standards. HDCP came up. It has been cracked several times. Its aim is ... what exactly? (I am possibly being quite thick.) Protect stream over a cable?If I want to copy the stream why would I not do it digitally in the first place (PC/ Source side).
+
+I I have a BlueRay HDCP why would I not copy the disk/ image directly (and play it)?
+
+I am so confused as to why so much work went to something that seems to be serving no purpose.

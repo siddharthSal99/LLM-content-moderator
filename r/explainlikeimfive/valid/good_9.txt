@@ -1,0 +1,2 @@
+Title: eli5 - In older movies/tv shows where they were going to "trace the call," what was actually happening to find the location of the caller? How did keeping the caller on the line longer make this possible? 
+Post Text: I understand with modern technology, location information likely has to do with IP addresses or other data that can be sourced almost instantly, but how did it work back then?

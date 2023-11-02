@@ -1,0 +1,10 @@
+Title: What is happening in this simulation of a particle scattering with quantum physics? 
+Post Text: [This video shows a quantum simulation made by solving the Schrödinger equation for a particle scattering in three different lattices.](https://www.youtube.com/watch?v=0kXGb0_-1iY)
+
+Initially, the particle seems sensible - it's a packet of waves that behaves like a particle in the aggregate. But once it starts scattering, nothing makes sense to me anymore.
+
+1. It is my understanding that particles are discrete - you can't have half a photon. But in this simulation, the scattering pushes half of it through the lattice and half reflects backwards!
+
+2. Scattering seems to disperse the energy of the particle over a large (and infinitely expanding) area of space. Is the particle destroyed after this? I didn't think particles could be destroyed. 
+
+3. What would happen if you observed this particle after the scattering? Would all these waves collapse into a single discrete particle again? How does this process work?

@@ -1,0 +1,4 @@
+Title: ELI5: why we cannot use multiple T-tests for comparing more than 2 groups? 
+Post Text: I'm trying to understand the reasoning behind using ANOVA (with appropriate post-hoc tests for multiple comparisons) as opposed to individual T-tests across groups. Simple, intuitive, non-math-heavy answers are greatly appreciated. 
+
+Thank you in advance!

@@ -1,0 +1,2 @@
+Title: ELI5: Do battery-operated appliances receive a jump start when you connect them to the charger? 
+Post Text: Recently, my electric toothbrush displayed a low battery warning and stopped. I plugged it into the charger for maybe five seconds, and it resumed working for an additional two minutes or more. Likewise, my earpods went out at around 10% battery, but after docking them for just ten minutes, they were up to 30 or 40% already. That's way quicker than normal charging.  So I asked myself, is there some secret energy stored in the batteries waiting for release?

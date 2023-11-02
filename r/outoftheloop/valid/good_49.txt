@@ -1,0 +1,7 @@
+Title: What's going on with glowing upvote buttons on some posts? 
+Post Text: I am on the official Reddit app and some posts in my feed appear to have a yellow glow or shine surrounding the upvote button. The glowing upvote appears on my Home/Popular tabs, in subreddits, and in the posts themselves. As far as I can tell, nothing happens differently if you click on it.
+
+Some examples of posts that appear like this for me:
+- [Example 1](https://www.reddit.com/r/nba/s/ZKKnlNG2At)
+- [Example 2](https://www.reddit.com/r/cats/s/1sj5GawHLk)
+- [Example 3](https://www.reddit.com/r/pics/s/h6NFIqGGzU)

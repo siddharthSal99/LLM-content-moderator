@@ -1,0 +1,10 @@
+Title: Doesn't this violate the equivalence principle? 
+Post Text: I'm sorry if this has been asked before, I searched on Reddit and Google and could not find this question asked.
+
+If two stationary balls are in a box which has a complete vacuum in deep space, ignoring the gravity of the balls for each other, the balls will just sit in the same spots forever.
+
+However if the balls in the vacuum in the box were freefalling in an orbit around the earth, because the balls independently have elliptical orbits around the earth, they should move towards each other and then away from each other, oscillating back and forth.
+
+Wouldn't this distinguish the first and second scenarios and thus violate Einstein's Equivalence principle? Thanks.
+
+Also, I asked this in /r/physics, but they kept removing it for some reason and would not explain why.

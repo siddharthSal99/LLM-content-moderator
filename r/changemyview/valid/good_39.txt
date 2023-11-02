@@ -1,0 +1,25 @@
+Title: CMV: The A-Level economics syllabus sucks - here are my changes. 
+Post Text: For context, I'm a Year 13 student who's done (Edexcel) economics at GSCE, A-Level, and I want to do economics at degree level.
+
+My changes (happy to explore each in more depth with commenters):
+
+CHANGE 1: Edexcel should teach, and have, a statistical component in the course (regression, statistics i.e. time series analysis, and RCT basics)
+
+Reasoning: How I've gone through four years (between GCSE and A-Level) economics without being taught some statistics is baffling to me. Seeing the trend of the subject (last 5 years Nobel prize winners) to statistical elements like RCT's, natural experiments, I think students learning economics find themselves disillusioned at the abstract nature of economics when in practise its a very hands-on subject.
+
+I'm not very smart, but grappling with these concepts aren't too difficult to learn and very doable. The subject should a.) prepare students for what they learn at degree level if they choose to pursue, b.) be subject relevant, and c.) teach useful skills. I believe this change accomodates this.
+
+
+
+CHANGE 2: I disagree with the 50-50 Micro-Macro syllabus split and believe it should be (70-30 in Micro's favour.)
+
+Reasoning: Among top economists, macro-economics isn't seen as a 'real' subject/science. I feel that macro really incorporates the 'dismal' side of economics. With this in mind, I also realise its only an A-level and doesn't go too much in-depth. I think that some parts of the macro syllabus should be scrapped and only keep parts that are relevant to students in their own lives (even those not taking Econ at degree level) i.e. impacts of inflation, macro indicators, globalisation. I think by only teaching the fundamentals here to allocate room for Change 1, its more relevant to the field as a whole and be able to aim the field to be more rigorous as a subject.
+
+
+Change 3: In this vein and according with change 1 and 2, I think Edexcel should scrap the micro+macro split (paper 3) and paper should instead be more 'advanced' micro concepts (i.e. theory of the firm) and incorporate statistical/mathematical/game theory elements.
+
+Reasoning: I think with the arguments posed in Change 1 and Change 2 this feels like the necessary step afterwards. I argue that these changes would disillusion students less (highlight how theory can be applied to real life/less abstract via stats, improve necessary skills at degree level with mathematical foundation.)
+
+
+
+I really find that the fact that students are never taught that demand curves are defined by fundamentals (indifference curves) or never see an iota of data in their studies to be baffling. I make this post because I welcome discussion. I would also really like to see what people taking econ as a degree think and how well their A-level prepared them. CMV!

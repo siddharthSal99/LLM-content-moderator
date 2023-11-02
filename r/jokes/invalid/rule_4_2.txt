@@ -1,0 +1,2 @@
+Title: Check out this awesome link!
+Post Text:Here is a great website with tons of cool stuff: [www.example.com](www.example.com)

@@ -1,0 +1,5 @@
+Title: Do time crystals break continuous or discrete time translation symmetry? 
+Post Text: According to [Wikipedia](https://en.wikipedia.org/wiki/Time_crystal#Broken_symmetry_in_discrete_time_crystals_(DTC)) and many other sources (such as [this](https://iontrap.umd.edu/wp-content/uploads/2012/12/annurev-conmatphys-031119-050658.pdf) paper on page 2), DTCs break discrete time translation symmetry. However, I was watching [this](https://youtu.be/5l1KxgHH2Ek?feature=shared&amp;t=487) PBS Space Time video that says that DTCs break continuous time translation symmetry while maintaining discrete time symmetry. I have two main questions:
+
+1. What's the different between the two?
+2. Is there a mistake in the PBS video?

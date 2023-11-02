@@ -1,0 +1,2 @@
+Title: Are there multiple versions of Stokes’ Law ? 
+Post Text: In geology (crystal settling), I have seen some equate settling velocity to 2𝑔𝑟\^2(𝜌𝑠−𝜌𝑓 )/9𝜂 while others to 𝑔𝑟\^2(𝜌𝑠−𝜌𝑓 )/18𝜂. I'm just too dumb to understand if there's a difference between these two. 

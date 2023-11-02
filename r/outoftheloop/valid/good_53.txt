@@ -1,0 +1,6 @@
+Title: What's going on with NVidia graphics card burning and 12VHPWR connectors? 
+Post Text: I recently heard about burning of NVidia RTX 4090 graphics card and NVIDIA denying it. What exactly is happening and why? 
+
+Example link:
+
+https://www.reddit.com/r/nvidia/comments/ycloiu/the\_12vhpwr\_cable\_is\_dangerous\_but\_nvidia\_doesnt/

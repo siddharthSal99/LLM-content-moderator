@@ -1,0 +1,10 @@
+Title: Why were lines of longitude defined differently from lines of latitude? (ie not parallel) 
+Post Text: I understand that lines of longitude converge at the poles, but why were they made to do that when lines of latitude run parallel to each other? 
+
+Or maybe what I want to know is, why don’t we have another set of lines that run north and south but remain parallel to each other? 
+
+I think I can understand why you don’t need converging lines that run east to west, but if parallel lines are helpful running east and west, wouldn’t they be helpful running north and south too?
+
+Edit: Apologies that this is so unclear, it was very hard to find the wording to convey my question. Maybe what I should have asked is, why is it helpful to  measure latitudinally using nearly cylindrical parallel divisions, where we measure the earth longitudinally in converging divisions that make a shape like an orange carpel (again, I am running out of words here).
+
+Second Edit: CrustalTrudger helped me understand that the lines of longitude and latitude were defined as they were primarily because of their relation to the sun and the poles and their usefulness in navigation. The lines of longitude are not just measuring the difference between places on the earth, but  instead are something like tracking the places which are directly under the sun at the same time. This would have been more practical at the time than covering the globe in a grid of arbitrary parallel lines. The latitudinal lines are even distances from the equator which has significance in relation to both the sun and the poles.

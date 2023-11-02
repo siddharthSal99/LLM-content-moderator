@@ -1,0 +1,7 @@
+Title: What causes the sea of the west coast of North America to remain relatively unfrozen in winter? 
+Post Text: Hello!  
+I was looking into how sea ice and snowfall changes over the course of the year, but I came across something that I am interested in. How come the western coast of North America (Alaska-Oregon) not freeze in the same way as other places of similar latitude, such as the Sea of Okhotsk in the Russian Far East. One can clearly observe the land freezing in the region, but the sea near to Alaska remains relatively unfrozen in comparison to other places like the Hudson Bay. I understand that the same reason Europe is warmer in winter is due to the Gulf Stream, is there something similar at work here? Thanks!
+
+Map I was using:
+
+https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=10850
