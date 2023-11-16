@@ -1,0 +1,172 @@
+Title: If Alexander the Great had lived longer, what would his next conquests have been? Body: I always wondered what Alexander the Great would have done next if he hadn't died so young. Would he have conquered Rome? India?
+
+User: can you summarize the rules?
+sending openai request.
+waiting on response...
+ChatGPT: Sure! Here is a summary of the rules in r/AskHistorians:
+
+1. Be polite and respectful. No racism, sexism, insults, or personal attacks.
+2. Ask clear, specific, and novel historical questions. No hypothetical or "what if" scenarios.
+3. Use reliable sources in answers. Primary and secondary sources are encouraged.
+4. Provide in-depth and accurate answers based on good quality sources. Follow the standards of the historical method.
+5. Make sure answers are correct and reflect established historiography. Avoid factual inaccuracies.
+6. Avoid personal anecdotes and speculation in answers. Stick to verifiable information.
+7. Questions should promote back-and-forth dialogue, not push an agenda.
+8. Answers should represent an objective argument from the historical record, not a personal agenda.
+9. Avoid just posting links without context. Provide a summary of the source.
+10. No plagiarism. Properly attribute borrowed text or ideas.
+11. Avoid making posts solely for humor. Include humor as part of a comprehensive post.
+12. No tolerance for bigotry or racist remarks, including Holocaust denial.
+13. Engage in meaningful discussion. Comments should contribute to the conversation and avoid frivolous or off-topic remarks.
+User: does the following post break any rules? Title: If Alexander the Great had lived longer, what would his next conquests have been? Body: I always wondered what Alexander the Great would have done next if he hadn't died so young. Would he have conquered Rome? India?
+sending openai request.
+waiting on response...
+ChatGPT: Based on the rules of r/AskHistorians, the following post may break a few rules:
+
+1) Rule 1: The post may fall under the category of "What If" questions, which are not allowed in the subreddit.
+
+2) Rule 2: The post asks about hypothetical scenarios, which is not in line with the historical nature of questions allowed in the subreddit.
+
+While it is encouraged to ask clear, specific, and novel questions, this post seems to be speculative rather than factual.
+
+==========================================================================================================================
+Title: What would have happened if the Roman Empire had never fallen? Body: I'm curious about how different our world would be if the Roman Empire had somehow managed to survive until modern times. Would we be more advanced? Would Latin be the global language?
+
+User: does the following post break any rules? Title: What would have happened if the Roman Empire had never fallen? Body: I'm curious about how different our world would be if the Roman Empire had somehow managed to survive until modern times. Would we be more advanced? Would Latin be the global language?
+sending openai request.
+waiting on response...
+ChatGPT: Yes, the post you provided breaks Rule 2 of r/AskHistorians, which states that questions should be historical in nature and not ask about hypothetical "What If" scenarios. The question you provided speculates about an alternate historical outcome and asks about the potential consequences, which is not within the scope of the subreddit.
+
+========================================================================================================================
+
+Title: Why did medieval people choose to live in such dirty and unhealthy conditions? Body: It seems like people in medieval Europe lived in unnecessarily dirty and unhealthy conditions. Why did they choose to live like this when they could have improved their hygiene and health?
+
+User: does the following post break any rules? Title: Why did medieval people choose to live in such dirty and unhealthy conditions? Body: It seems like people in medieval Europe lived in unnecessarily dirty and unhealthy conditions. Why did they choose to live like this when they could have improved their hygiene and health?
+sending openai request.
+waiting on response...
+ChatGPT: Based on the given post, it does not violate any specific rules of r/AskHistorians. However, it could potentially be considered a loaded question, which is not allowed according to Rule 1. The question assumes that people in medieval Europe chose to live in dirty and unhealthy conditions, without considering the historical context and various factors that influenced their living conditions. 
+
+To avoid violating Rule 1, the post could be rephrased to ask about the reasons behind the living conditions in medieval Europe without assuming that they were deliberately chosen.
+User: why do you feel that this post does not contain a loaded questions?
+sending openai request.
+waiting on response...
+ChatGPT: Based on the information provided, the post does contain a loaded question. It assumes that people in medieval Europe chose to live in dirty and unhealthy conditions without considering the possibility of external factors that influenced their living conditions. It also assumes that they had the means and knowledge to improve their hygiene and health. This loaded question may lead to biased or oversimplified answers that do not accurately reflect the complexity of medieval society.
+=======================================================================================================================
+
+User: can you summarize the rules?
+sending openai request.
+waiting on response...
+ChatGPT: Certainly! Here's a summary of the rules in r/AskHistorians:
+
+1) Be polite and avoid bigotry or personal insults.
+2) Ask clear, specific, and historical questions. No hypothetical scenarios.
+3) Use reliable sources and provide them when asked.
+4) Answers should be comprehensive, accurate, and based on good quality sources.
+5) Answers must be correct and meet the standards of historians.
+6) Personal anecdotes and speculation are not acceptable answers.
+7) Questions should promote dialogue and not be based on false or loaded premises.
+8) Answers should be based on historical analysis and not personal agendas.
+9) Provide context and summaries when sharing links or recommending sources.
+10) Plagiarism will result in an instant ban.
+11) Humor is allowed but answers should not be solely for the purpose of being funny.
+12) Bigoted or racist remarks will not be tolerated and lead to banning.
+13) Comments should engage with the topic and add to the discussion.
+
+These rules help ensure a high-quality and informative environment for discussing history.
+User: can you explain what a loaded question is and provide some examples?                                                                                          
+sending openai request.                                                                                                   
+waiting on response...
+ChatGPT: A loaded question is a type of question that contains a biased or controversial assumption within it. It is designed to provoke a specific response or to lead the person answering into a predetermined conclusion. Loaded questions often make unwarranted assumptions or rely on false premises.
+
+Examples of loaded questions include:
+
+1. "Have you stopped beating your spouse?" - This question assumes that the person being asked has been beating their spouse, putting them in a defensive position. 
+
+2. "When did you stop supporting that terrible political party?" - This question assumes that the person being asked previously supported a political party that is viewed negatively, without any evidence or acknowledgement of their current position.
+
+3. "Why do you think it's acceptable to harm innocent animals?" - This question assumes that the person being asked believes it is acceptable to harm animals, without considering alternative viewpoints.
+
+4. "Do you believe in free speech or do you support hate speech?" - This question assumes that supporting free speech means supporting hate speech, creating a false dichotomy.
+
+In each of these examples, the loaded question includes an assumption or bias that influences the response and may limit the scope of the discussion. It is important to identify loaded questions and be cautious when responding to them, as they can often lead to unfair or misleading conversations.
+User: does the following post violate any rules? Title: Why did medieval people choose to live in such dirty and unhealthy conditions? Body: It seems like people in medieval Europe lived in unnecessarily dirty and unhealthy conditions. Why did they choose to live like this when they could have improved their hygiene and health? 
+sending openai request.
+waiting on response...
+ChatGPT: Yes, the post you provided could, potentially, violate Rule 1 (No Loaded Questions). A loaded question is one that is phrased in a way that assumes certain facts or opinions as true. It often carries a strong underlying bias or presupposition. In the given post, the question assumes that people in medieval Europe lived in "unnecessarily dirty and unhealthy conditions" and further assumes that they had the choice to improve their hygiene and health. By framing the question this way, it presumes a negative judgment and limits the possible range of answers. It would be more appropriate to ask a neutral and open-ended question without assumptions, such as "What were the living conditions like for people in medieval Europe and how did they impact health and hygiene?"
+===============================================================================================================================
+
+Title: Wasn't the British Empire beneficial for its colonies by civilizing them? Body: Considering the infrastructure and order the British brought to their colonies, wasn't the British Empire actually a positive force for these regions, helping to civilize and develop them?
+
+User: does the following post violate any rules? Title: Wasn't the British Empire beneficial for its colonies by civilizing them? Body: Considering the infrastructure and order the British brought to their colonies, wasn't the British Empire actually a positive force for these regions, helping to civilize and develop them?
+sending openai request.
+waiting on response...
+ChatGPT: The post you've mentioned does not violate any specific rules on its own. However, it does touch on a topic that can often lead to heated and contentious discussions. As such, it is important to approach the topic with a critical and nuanced perspective, avoiding generalizations or oversimplifications. Answers to this question should be based on historical evidence and should be free from personal biases or political agendas.
+
+===============================================================================================================================
+
+User: can you summarize the rules?  
+sending openai request.
+waiting on response...
+ChatGPT: Certainly! Here are the summarized rules for r/AskHistorians:
+
+1. Be courteous and polite at all times.
+2. Ask clear, specific, and novel historical questions.
+3. Include sources in your answers whenever possible.
+4. Provide in-depth, accurate, and well-sourced answers.
+5. Ensure that your answers are factually correct and based on reliable sources.
+6. Avoid using personal anecdotes or speculative opinions in your answers.
+7. Promote back-and-forth dialogue and avoid pushing political agendas.
+8. Construct your arguments based on the historical record and the principles of the historical method.
+9. Avoid simply posting links without providing context or summaries.
+10. Do not plagiarize or pass off others' words as your own.
+11. Avoid making posts solely for the purpose of being funny.
+12. Zero tolerance for bigoted or racist remarks, including Holocaust denial.
+13. Make meaningful contributions to the discussion and avoid cluttering comments.
+
+I hope this summary helps!
+User: does the following post violate any rules? Title: Wasn't the British Empire beneficial for its colonies by civilizing them? Body: Considering the infrastructure and order the British brought to their colonies, wasn't the British Empire actually a positive force for these regions, helping to civilize and develop them?
+sending openai request.
+waiting on response...
+ChatGPT: Yes, the post you provided could potentially violate Rule 7 of r/AskHistorians, as it includes a loaded question with a false premise in order to push an agenda. The question assumes that the British Empire was beneficial for its colonies by "civilizing" and developing them, without considering the negative impacts or alternative perspectives. This type of question is not conducive to a productive and unbiased historical discussion.
+sunny yummy, yacht club, smile, apm monaco
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
